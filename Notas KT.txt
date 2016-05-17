@@ -8,8 +8,7 @@ deployement vbs 		3:00:00
 incidents 				3:07:00
 mas enstaging 		 	3:12:00
 
----
-01 Jan 2017 license for VAlNav
+
 
 -\\calnas1\APPS_TEST\$ProductionApps\Programs\ValueNavigator\Prod es del test server
 
@@ -20,3 +19,5 @@ people have both local databases (created in the programa) and connection to the
 -ask for updated doc that have the part of daily log maintenance (email used, procedure if something fails, stores procedure screenshot)
 
 -staging tables are our responsability
+
+etc
