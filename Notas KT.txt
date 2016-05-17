@@ -1,0 +1,22 @@
+Value Navigator 		1:56:00
+ValNav licenses 		2:10:00
+user access 			2:21:00
+ticket in service now 	2:33:00
+Interfaces in DB  		2:38:00
+daily log maintenance 	2:43:00
+deployement vbs 		3:00:00
+incidents 				3:07:00
+mas enstaging 		 	3:12:00
+
+---
+01 Jan 2017 license for VAlNav
+
+-\\calnas1\APPS_TEST\$ProductionApps\Programs\ValueNavigator\Prod es del test server
+
+the application security group gives permission to the shared folder needed for the app, while the packaging group gives installation permission.
+
+people have both local databases (created in the programa) and connection to the central corporate db. They usually work in local and then export the data to the central one.
+
+-ask for updated doc that have the part of daily log maintenance (email used, procedure if something fails, stores procedure screenshot)
+
+-staging tables are our responsability
